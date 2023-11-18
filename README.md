@@ -28,8 +28,18 @@ This repository contains a simple Tic Tac Toe game implemented using basic React
 2. **Install dependencies:**
    ```bash
    npm install
-
-3.**Start the development server:**
-  ```bash
+   
+3. **Start the development server:**
+   ```bash
    npm start
 
+## Contributing: 
+
+-Contributions are welcome! If you have ideas for improvements or new features, please open an issue or submit a pull request.
+
+## Deployment:
+
+-The game is ready for deployment. Follow the deployment instructions in the project documentation.
+
+
+    
